@@ -11,7 +11,7 @@ export function Comments() {
     <div style={{ marginTop: '3rem' }}>
       <h2 style={{ marginBottom: '1rem' }}>💬 评论区</h2>
       <Giscus
-        repo="你的用户名/FDU-Sharing"  // TODO: 替换为你的仓库
+        repo="victkk/FDU-Sharing"  // TODO: 替换为你的仓库
         repoId=""                        // TODO: 替换为你的仓库ID
         category="Comments"
         categoryId=""                    // TODO: 替换为你的分类ID
