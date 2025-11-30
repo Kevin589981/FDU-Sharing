@@ -23,5 +23,6 @@ export default {
   'tengfeixiandao': '🚀 腾飞先导课',
   'jindaishi': '📜 近代史纲要',
   'xigai': '📕 习概',
-  'rengongzhinengjichu': '⚙️ 人工智能基础' 	
+  'makesi': '📗 马克思主义基本原理',
+  'rengongzhinengjichu': '⚙️ 人工智能基础' 
 }
