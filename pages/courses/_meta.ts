@@ -27,6 +27,8 @@ export default {
   'moshudianshiyan': '🔧 模数电实验',
   'rengongzhinengjichu': '🤖 人工智能基础',
   
+  // ===== 英语 =====
+  'kejirencaiyingyugoutong': '🗣️ 科技人才英语沟通',
   // ===== 经济学 =====
   'weiguanjingjixue': '📈 微观经济学',
   'zhengzhijingjixue': '📕 政治经济学',
@@ -37,5 +39,6 @@ export default {
   'xigai': '📕 习概',
   'makesi': '📗 马克思主义基本原理',
   'maogai': '📗 毛概',
-  'songcidaodu': '📜 宋词导读'
+  'songcidaodu': '📜 宋词导读',
+  'yingshijuyishu': '🎬 影视剧艺术',
 }
