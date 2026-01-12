@@ -41,7 +41,6 @@ export default {
   'makesi': '📗 马克思主义基本原理',
   'maogai': '📗 毛概',
   'songcidaodu': '📜 宋词导读',
-  'yingshijuyishu': '🎬 影视剧艺术',,
   'fazhexueyuanlidaodu': '📚 《法哲学原理》导读',
   'gaigekaifangshi': '📚 改革开放史',
   'gailvtongjiyugongchengshuxue': '📚 概率统计与工程数学',
