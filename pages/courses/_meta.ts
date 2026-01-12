@@ -26,7 +26,8 @@ export default {
   'shujukuyinlun': '🗄️ 数据库引论',
   'moshudianshiyan': '🔧 模数电实验',
   'rengongzhinengjichu': '🤖 人工智能基础',
-  
+  'daishujiegouyushuliluoji': '📚 代数结构与数理逻辑',
+
   // ===== 英语 =====
   'kejirencaiyingyugoutong': '🗣️ 科技人才英语沟通',
   // ===== 经济学 =====
@@ -40,5 +41,24 @@ export default {
   'makesi': '📗 马克思主义基本原理',
   'maogai': '📗 毛概',
   'songcidaodu': '📜 宋词导读',
+  'yingshijuyishu': '🎬 影视剧艺术',,
+  'fazhexueyuanlidaodu': '📚 《法哲学原理》导读',
+  'gaigekaifangshi': '📚 改革开放史',
+  'gailvtongjiyugongchengshuxue': '📚 概率统计与工程数学',
+  'gaodengshuxueBxia': '📚 高等数学B（下）',
+  'jichuwulishiyan': '📚 基础物理实验',
+  'jingju': '📚 京剧',
+  'junshililun': '📚 军事理论',
+  'monidianziluxian': '📚 模拟电子线路',
+  'qianrushichuliyuxinpixitongsheji': '📚 嵌入式处理器与芯片系统设计',
+  'shuzijichengdianlushejiyuanli': '📚 数字集成电路设计原理',
+  'shuziluojijichu_weidianzi': '📚 数字逻辑基础-微电子',
+  'waiguojingjisichao': '📚 外国经济思潮',
+  'xiandaishengwukexuedaolun': '📚 现代生物科学导论',
+  'xinhaoyutongxinxitong': '📚 信号与通信系统',
+  'zhiwugaibianshenghuo': '📚 植物改变生活',
+  'zhongguoyinyueshi': '📚 中国音乐史',
+  'zhongwaiyinyueshenmei': '📚 中外音乐审美',
+  'xianqinzhexue': '📚 先秦哲学',
   'yingshijuyishu': '🎬 影视剧艺术',
 }
