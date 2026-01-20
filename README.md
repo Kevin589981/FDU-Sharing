@@ -19,7 +19,42 @@
 
 ## 如何贡献
 
+我们欢迎所有同学贡献资料！
+
+### 🚀 简便方式
+
+使用我们提供的自动化脚本，一键贡献：
+
+
+# 1. Fork本仓库（重要！）
+访问 https://github.com/victkk/FDU-Sharing
+点击右上角 "Fork" 按钮
+
+# 2. 点击绿色的code按钮，点击codespaces，创建一个codespaces里
+
+# 3. 安装依赖
+pip install -r scripts/requirements.txt
+
+# 4. 将资料放入 upload/ 目录
+
+# 5. 运行脚本
+python scripts/easy_pr.py
+```
+
+脚本会自动：
+- ✅ 识别课程和资料类型
+- ✅ 移动文件到正确位置
+- ✅ 更新网站页面
+- ✅ 创建 Pull Request
+
+详见：
+- [Easy PR 使用文档](/scripts/README.md)
+- [工作流程说明](/scripts/WORKFLOW.md)
+
+
 我们欢迎所有同学贡献资料！对于大部分非CS相关的同学，你可以加我微信（vic_david）把资料发我让我挂出来。对于精通github的同学则可以通过以下方式贡献：
+
+### 🔧 手动PR
 
 1. **Fork** 本仓库
 2. 将资料文件放入 `public/resources/课程名/` 目录

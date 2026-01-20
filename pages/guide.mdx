@@ -169,6 +169,51 @@ export default {
 
 ---
 
+## 简便PR方法
+
+我们提供了自动化脚本，让贡献更简单！
+
+### 使用 easy_pr.py 脚本
+
+1. **Fork** 本仓库到你的 GitHub 账号
+
+2. 点击绿色的**code**按钮，选择**codespaces**，点击**Create CodeSpaces on master**，然后会自动打开一个编辑器窗口
+
+3. **将资料放入 upload/ 目录**
+   ```bash
+   upload/
+   ├── 数据结构/
+   │   └── 2024-期末-试卷.pdf
+   └── 线性代数/
+       └── 2024-复习-总结.pdf
+   ```
+
+3. **运行脚本**
+   ```bash
+   pip install -r scripts/requirements.txt
+   python scripts/easy_pr.py
+   ```
+
+4. **按提示完成**
+   - ✅ 自动识别课程和资料类型
+   - ✅ 智能文件命名建议
+   - ✅ 自动创建分支和提交
+   - ✅ 自动创建 Pull Request
+
+### 脚本功能
+
+- 📁 扫描上传目录中的文件
+- 🔍 智能识别课程名、年份、资料类型
+- 📝 交互式选择和确认
+- 🎯 自动移动文件到正确位置
+- 📄 自动更新 MDX 页面
+- 🌿 自动创建 Git 分支并提交
+- 🚀 自动创建 Pull Request
+
+---
+
+## 🔧 如果你更喜欢传统方式，或者贡献比较复杂
+
 ## 🔧 完整 PR 流程
 
 1. **Fork** 本仓库到你的 GitHub 账号
@@ -193,6 +238,10 @@ export default {
 7. 在 GitHub 上创建 Pull Request
 
 ---
+
+## 自动化PR
+1. 为了方便不熟悉代码的同学也能贡献/，我们创建了一个自动化脚本，你只需按照
+
 
 ## ❓ 常见问题
 
