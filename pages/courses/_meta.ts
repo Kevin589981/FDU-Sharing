@@ -27,6 +27,7 @@ export default {
   'moshudianshiyan': '🔧 模数电实验',
   'rengongzhinengjichu': '🤖 人工智能基础',
   'daishujiegouyushuliluoji': '📚 代数结构与数理逻辑',
+  'ziranyuyanchuli': '🤖 自然语言处理',
 
   // ===== 经济学 =====
   'weiguanjingjixue': '📈 微观经济学',
