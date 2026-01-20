@@ -29,6 +29,8 @@ export default {
   'daishujiegouyushuliluoji': '📚 代数结构与数理逻辑',
   'ziranyuyanchuli': '🤖 自然语言处理',
 
+  // ===== 英语 =====
+  'kejirencaiyingyugoutong': '🗣️ 科技人才英语沟通',
   // ===== 经济学 =====
   'weiguanjingjixue': '📈 微观经济学',
   'zhengzhijingjixue': '📕 政治经济学',
@@ -58,4 +60,5 @@ export default {
   'zhongguoyinyueshi': '📚 中国音乐史',
   'zhongwaiyinyueshenmei': '📚 中外音乐审美',
   'xianqinzhexue': '📚 先秦哲学',
+  'yingshijuyishu': '🎬 影视剧艺术',
 }
